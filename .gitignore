@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+
+# Next.js output
+.next/
+out/
+build/
+
+# local environment and credentials
+.env
+.env.*
+!.env.example
+LLM_API.txt
+
+# local showcase data
+data/
+*.log
+
+# hosting and editor state
+.vercel/
+.DS_Store
+*.tsbuildinfo
+.idea/
+.vscode/
+
+# private product assets must never enter this repository
+knowledge/
+research/
+*.sqlite
+*.sqlite3
+*.jsonl
