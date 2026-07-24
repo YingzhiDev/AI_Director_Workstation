@@ -6,11 +6,7 @@
 
 Experience the complete product at [www.geniushuang.cn](https://www.geniushuang.cn).
 
-This repository is the public portfolio showcase edition of **AI Director Workstation**, created and maintained under the **GENIUSHUANG** portfolio identity. It retains the complete product's primary features, interaction model, and reviewable engineering structure, while excluding its private knowledge base, internal prompt assets, evaluation cases, production databases, and other protected resources.
-
-## Naming
-
-This repository is the source-code repository for the public edition of **GENIUSHUANG — AI Director Workstation**. **GENIUSHUANG** is the complete product, available directly on the web. They are the public and complete editions of the same product, not two separate brands.
+This repository is the source-code repository for the public edition of **GENIUSHUANG — AI Director Workstation**. **GENIUSHUANG** is the complete product, available directly on the web. They are the public and complete editions of the same product, not two separate brands. It retains the complete product's primary features, interaction model, and reviewable engineering structure, while excluding its private knowledge base, internal prompt assets, evaluation cases, production databases, and other protected resources.
 
 ## Project overview
 
