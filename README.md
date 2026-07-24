@@ -260,4 +260,6 @@ scripts/security-check.mjs   Pre-release leakage guard
 
 ## License
 
+This is a public portfolio repository, not an open-source project. The source is available for evaluation and product demonstration under the repository’s all-rights-reserved license.
+
 Copyright © 2026. All rights reserved. See [LICENSE](LICENSE).
