@@ -10,7 +10,7 @@ This repository is the public portfolio showcase edition of **AI Director Workst
 
 ## Naming
 
-**AI Director Workstation** is the public product name used throughout this repository. **GENIUSHUANG** is the creator and portfolio identity behind the project. References to the public showcase and the complete private edition describe two editions of the same product, not separate brands.
+This repository is the source-code repository for the public edition of **GENIUSHUANG — AI Director Workstation**. **GENIUSHUANG** is the complete product, available directly on the web. They are the public and complete editions of the same product, not two separate brands.
 
 ## Project overview
 
