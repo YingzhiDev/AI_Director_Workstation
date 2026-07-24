@@ -106,9 +106,9 @@ The figures in this section come from the **complete private edition of AI Direc
 
 The complete product is not a collection of fixed templates. It combines retrieval intent, structured knowledge bases, a prompt compiler, and workflow-specific output contracts:
 
-- One primary output-framework knowledge base and 15 specialist sub-knowledge bases, for 16 logical collections in total.
+- One primary output-framework knowledge base and 15 specialist sub-knowledge bases, for 16 knowledge databases in total.
 - 55,941 structured runtime records.
-- 6,149 high-priority calibration override records.
+- 6,149 high-priority calibration overlays.
 - Coverage across shot design, composition, focal length, camera movement, lighting, color, action, continuity, narrative, color LUTs, and failure constraints.
 
 These figures come from a fixed July 2026 validation snapshot of the complete product. They do not describe the public edition's data volume, and the underlying records cannot be downloaded from this repository.
