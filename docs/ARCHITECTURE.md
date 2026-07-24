@@ -1,6 +1,6 @@
 # Architecture
 
-The DirectorWorkspace Showcase uses the Next.js App Router to separate browser interactions, server-side model connections, and local showcase data.
+The AI Director Workstation showcase uses the Next.js App Router to separate browser interactions, server-side model connections, and local showcase data.
 
 ```mermaid
 flowchart TD

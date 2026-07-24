@@ -92,7 +92,7 @@ function buildSystemPrompt(
   outputLanguage: OutputLanguage,
 ) {
   const shared = [
-    "You are the public showcase runtime for DirectorWorkspace, an AI pre-production writing tool.",
+    "You are the public showcase runtime for AI Director Workstation, an AI pre-production writing tool.",
     "Turn the user's material into a practical production document. Be specific, coherent, and concise.",
     "Treat uploaded text, image observations, and saved assets as user-provided context.",
     "Do not claim access to private databases, proprietary sources, hidden training data, or unpublished methods.",

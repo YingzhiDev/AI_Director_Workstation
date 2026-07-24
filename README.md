@@ -1,18 +1,22 @@
-# **Genius Director Workstation**
+# **AI Director Workstation**
 
-> **The public portfolio showcase for HUANG Genius Director**
+> **The public portfolio showcase for GENIUSHUANG**
 >
 > A full-stack, multimodal workspace for AI film pre-production that turns ideas, scripts, reference files, and reusable assets into structured video prompts, image prompts, and script treatments—helping creators produce more cinematic, accurate AI-generated images and video.
 
 Experience the complete product at [www.geniushuang.cn](https://www.geniushuang.cn).
 
-This repository is the showcase edition of HUANG Genius Director. It retains the complete product's primary features, interaction model, and reviewable engineering structure, while excluding its private knowledge base, internal prompt assets, evaluation cases, production databases, and other protected resources.
+This repository is the public portfolio showcase edition of **AI Director Workstation**, created and maintained under the **GENIUSHUANG** portfolio identity. It retains the complete product's primary features, interaction model, and reviewable engineering structure, while excluding its private knowledge base, internal prompt assets, evaluation cases, production databases, and other protected resources.
+
+## Naming
+
+**AI Director Workstation** is the public product name used throughout this repository. **GENIUSHUANG** is the creator and portfolio identity behind the project. References to the public showcase and the complete private edition describe two editions of the same product, not separate brands.
 
 ## Project overview
 
 | Item | Details |
 | --- | --- |
-| Product | HUANG Genius Director |
+| Product | AI Director Workstation |
 | Repository role | Runnable public portfolio showcase |
 | Public-edition version | `1.0.0` |
 | Development | May–July 2026; ongoing maintenance thereafter |
@@ -100,7 +104,7 @@ As the Independent Builder, I owned the complete path from problem definition to
 
 ## Complete-product outcomes
 
-The figures in this section come from the **complete HUANG Genius Director product**. They demonstrate the validation behind this portfolio project; they are not generated automatically by running the public repository and do not imply that the public edition contains the associated private knowledge or evaluation assets.
+The figures in this section come from the **complete private edition of AI Director Workstation**. They demonstrate the validation behind this portfolio project; they are not generated automatically by running the public repository and do not imply that the public edition contains the associated private knowledge or evaluation assets.
 
 ### Structured knowledge engineering
 
@@ -154,7 +158,7 @@ The 4.92/5 score comes from a lightweight deterministic rule evaluation over fix
 
 ## Public edition vs. complete edition
 
-| Capability | Public portfolio showcase | Complete HUANG Genius Director |
+| Capability | Public portfolio showcase | Complete private edition |
 | --- | --- | --- |
 | Product role | Runnable, reviewable portfolio showcase | Complete product for real users |
 | Director, image, and screenwriting workspaces | Included | Included |

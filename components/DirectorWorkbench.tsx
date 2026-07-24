@@ -1868,8 +1868,8 @@ export function DirectorWorkbench({
             <div>
               <p className="text-[11px] font-bold tracking-[0.2em]">
                 {isScreenwritingWorkspace
-                  ? "DIRECTORWORKSPACE · WRITER"
-                  : "DIRECTORWORKSPACE"}
+                  ? "AI DIRECTOR WORKSTATION · WRITER"
+                  : "AI DIRECTOR WORKSTATION"}
               </p>
               <p className="mt-0.5 text-[9px] tracking-[0.14em] text-[#2B4A3F]/48">
                 {isScreenwritingWorkspace
@@ -1992,8 +1992,8 @@ export function DirectorWorkbench({
                 <span className="h-1.5 w-1.5 rounded-full bg-[#C68A4A]" />
                 <span className="text-[10px] font-semibold tracking-[0.19em] text-[#2B4A3F]/65">
                   {isScreenwritingWorkspace
-                    ? "DIRECTORWORKSPACE WRITER"
-                    : "DIRECTORWORKSPACE DIRECTOR"}
+                    ? "AI DIRECTOR WORKSTATION · WRITER"
+                    : "AI DIRECTOR WORKSTATION · DIRECTOR"}
                 </span>
               </div>
 
@@ -2071,7 +2071,7 @@ export function DirectorWorkbench({
 
         <footer className="border-t border-[#1A2C26]/9 px-5 py-7 sm:px-8">
           <div className="mx-auto flex max-w-[1380px] flex-col gap-3 text-[9px] tracking-[0.14em] text-[#2B4A3F]/42 sm:flex-row sm:items-center sm:justify-between">
-            <p>DIRECTORWORKSPACE © 2026 · CREATE THE SCENE</p>
+            <p>AI DIRECTOR WORKSTATION © 2026 · CREATE THE SCENE</p>
             <p>FILM PROMPT CREATION · V1</p>
           </div>
         </footer>

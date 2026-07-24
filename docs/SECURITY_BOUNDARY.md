@@ -1,6 +1,6 @@
 # Security Boundary
 
-The primary release rule for this repository is that public showcase code must never become a channel for accessing DirectorWorkspace's private knowledge assets or production credentials.
+The primary release rule for this repository is that public showcase code must never become a channel for accessing AI Director Workstation's private knowledge assets or production credentials.
 
 ## Content excluded from the public repository
 
